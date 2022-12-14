@@ -17,7 +17,7 @@ function App() {
       <span> hosted on</span>
 
       <a
-        href="https://639942b456e5416d6513802b--eloquent-heliotrope-c19706.netlify.app/"
+        href="https://639949f66cecae7414862cc2--enchanting-concha-6616a1.netlify.app/"
         target={"_blank"}
         rel="noreferrer"
       >

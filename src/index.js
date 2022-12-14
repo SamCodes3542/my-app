@@ -9,10 +9,12 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <div className="info">
-      <App />
       <br></br>
 
       <Weather />
+      <footer>
+        <App />
+      </footer>
     </div>
   </React.StrictMode>
 );
