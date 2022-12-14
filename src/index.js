@@ -10,11 +10,9 @@ root.render(
   <React.StrictMode>
     <div className="info">
       <br></br>
-
+      <App />
       <Weather />
-      <footer>
-        <App />
-      </footer>
+      <footer></footer>
     </div>
   </React.StrictMode>
 );
